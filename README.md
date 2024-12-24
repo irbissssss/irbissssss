@@ -1,5 +1,6 @@
-Welcome to Irbissssss Github Repository.
-I have a range of tech-related skills displayed on this github page, so have fun reading though them. :)
+Welcome to Irbis Github Repository. 
+I am an ICT student in Metropolia University of Applied Sciences.
+Here I have different projects through which I display my programming skills.
 
 
 <!---
