@@ -1,6 +1,4 @@
-Welcome to Irbis Github Repository. 
-I am an ICT student in Metropolia University of Applied Sciences.
-Here I have different projects through which I display my programming skills.
+
 
 
 <!---
